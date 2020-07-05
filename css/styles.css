@@ -1,0 +1,45 @@
+main {
+    background-color:lightblue;
+}
+
+.color-yellow {
+    background-color: yellow;
+}
+
+.font-color-white {
+    color: white;
+}
+.font-color-red{
+    color: red;
+}
+.text-red {
+    color: red;
+  }
+  .bg-blue {
+    background-color: blue;
+  }
+  p {
+    font-size:50px; 
+    background-color: salmon;
+    text-align: center;
+  }
+  li a {
+    color: red;
+  }
+  .text-color-orange {
+    color: orange;
+  }
+  .text-color-w {
+    color: whitesmoke;
+  }
+  ol{
+    border:20px rgb(32, 29, 26) palegoldenrod;
+    display: inline;
+    text-align: center ;
+    padding: 20px;
+  }
+  h1{
+      color:white ;
+  }
+  
+  
